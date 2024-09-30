@@ -1,4 +1,4 @@
-## This is my theme on Discord (Vencord required)
+## My Discord Theme (Vencord required)
 
 For applicated this theme on your discord app :
 
